@@ -4,9 +4,7 @@ Hi 👋 Im Muhammad Ibrahim
 Frontend Developer
 ------------------
 
-I’m a self-motivated Front-End Developer with hands-on experience building responsive and user-friendly web applications. I’ve completed a professional training program at KreativStorm, where I gained practical experience in React.js, and built multiple real-world projects such as a weather app, a jumping man game, a calculator, and a travel list app.
-
-I continuously improve my Skills and I'm currently working toward earning the Meta Front-End Developer Certificate, sharpening both my technical and professional development skills.
+I’m a focused Front-End Developer who builds modern, high-performance web applications with Next.js, React.js, Vite, Tailwind CSS, Redux Toolkit, Framer Motion, GSAP, and shadcn/ui. I’ve shipped projects like Watchly (movie library), E-shop (e-commerce), and Trackify (finance dashboard), gaining hands-on experience in component design, animations, server-side rendering, and API-driven development. I hold the Meta Front-End Developer certification and additional credentials in HTML, CSS, JavaScript, Advanced React, and UI/UX design. I’m seeking a Front-End Developer role where I can contribute technical expertise, improve user experiences, and grow within a collaborative team.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohammed-almutassim-gallab-39a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Www.tota.11@Gmail.com) 
