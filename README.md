@@ -1,7 +1,7 @@
 Hi 👋 Im Muhammad Ibrahim
 ===========================================
 
-Frontend Developer
+Fullstack Developer
 ------------------
 
 I’m a focused Front-End Developer who builds modern, high-performance web applications with Next.js, React.js, Vite, Tailwind CSS, Redux Toolkit, Framer Motion, GSAP, and shadcn/ui. I’ve shipped projects like Watchly (movie library), E-shop (e-commerce), and Trackify (finance dashboard), gaining hands-on experience in component design, animations, server-side rendering, and API-driven development. I hold the Meta Front-End Developer certification and additional credentials in HTML, CSS, JavaScript, Advanced React, and UI/UX design. I’m seeking a Front-End Developer role where I can contribute technical expertise, improve user experiences, and grow within a collaborative team.
